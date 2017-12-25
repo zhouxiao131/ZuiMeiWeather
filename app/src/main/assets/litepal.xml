@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+   <!--Created by Mr.zhou on 2017/12/25.-->
+
+
+<litepal>
+
+    <dbname value="ZuiMeiWeather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.mrzhou.zuimeiweather.db.Province" />
+        <mapping class="com.example.mrzhou.zuimeiweather.db.City" />
+        <mapping class="com.example.mrzhou.zuimeiweather.db.County" />
+    </list>
+
+</litepal>
