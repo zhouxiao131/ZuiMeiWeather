@@ -3,7 +3,8 @@ package com.example.mrzhou.zuimeiweather;
 /**
  * Created by Mr.zhou on 2017/12/25.
  */
-
+/*2017年12月25日18:46:10*/
+/*2017年12月25日18:48:27*/
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;

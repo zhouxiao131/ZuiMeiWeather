@@ -5,8 +5,8 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
-
-
+/*
+2017年12月25日18:52:49*/
 
 public class MainActivity extends AppCompatActivity {
 
